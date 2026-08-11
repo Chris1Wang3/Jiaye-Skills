@@ -2,9 +2,11 @@
 
 [中文](./README.md) · **English**
 
-# 🪑 HammerRoom Skills · 拍砖间
+# ⚖️ Idea on Trial · 创意受审
 
-**HammerRoom** — OPC Board · Competitive Product Research · PM Requirement Review Simulator · ReviewCourt · Vague Requirement Unpacker · Skill Quality Scorer
+**Put your idea on trial before the market does.**
+
+OPC Board · Competitive Product Research · PM Requirement Review Simulator · ReviewCourt · Vague Requirement Unpacker · Skill Quality Scorer
 
 <br/>
 
@@ -56,7 +58,7 @@ Or install from [ClawHub · Chris1Wang3](https://clawhub.ai/Chris1Wang3).
 Clone this repo and add each skill directory (with its `SKILL.md`) to your agent skill path, or copy subdirectories into your project `.cursor/skills` / user skills folder.
 
 ```bash
-git clone https://github.com/Chris1Wang3/HammerRoom-Skills.git
+git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 ```
 
 > **Note:** Do not install third-party CLIs or agent tool artifacts inside this repository; use global paths or a separate directory outside the repo.
@@ -255,7 +257,7 @@ You can also say "run with an example" for any skill — the agent will construc
 
 **Chris Wang** ([@Chris1Wang3](https://github.com/Chris1Wang3))
 
-AI product lead for growth and monetization, focused on packaging the kind of professional pushback you only get in meetings into reusable Agent Skills — delivering reports and decision assets you can actually use. Feedback welcome via [GitHub Issues](https://github.com/Chris1Wang3/HammerRoom-Skills/issues).
+AI product lead for growth and monetization, focused on packaging the kind of professional pushback you only get in meetings into reusable Agent Skills — delivering reports and decision assets you can actually use. Feedback welcome via [GitHub Issues](https://github.com/Chris1Wang3/Idea-on-Trial/issues).
 
 ---
 

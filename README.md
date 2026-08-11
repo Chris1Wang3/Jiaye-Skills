@@ -2,9 +2,11 @@
 
 **中文** · [English](./README.en.md)
 
-# 🪑 拍砖间 · HammerRoom Skills
+# ⚖️ 创意受审 · Idea on Trial
 
-**拍砖间** — 一人董事会 · 竞品调研 · 需求评审模拟器 · 需求评审庭 · 模糊需求接招器 · 技能质量评分器
+**把创意送上审判席，在市场宣判之前。**
+
+一人董事会 · 竞品调研 · 需求评审模拟器 · 需求评审庭 · 模糊需求接招器 · 技能质量评分器
 
 <br/>
 
@@ -56,7 +58,7 @@ openclaw skills install skill-quality-scorer
 将本仓库克隆到本地，在 Agent 设置中将各技能目录（含 `SKILL.md`）加入技能路径，或复制子目录到项目的 `.cursor/skills` / 用户技能目录。
 
 ```bash
-git clone https://github.com/Chris1Wang3/HammerRoom-Skills.git
+git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 ```
 
 > **注意：** 请勿在本仓库目录内安装第三方 CLI 或 Agent 工具产物；请使用全局路径或仓库外的独立目录。
@@ -255,7 +257,7 @@ git clone https://github.com/Chris1Wang3/HammerRoom-Skills.git
 
 **Chris Wang**（[@Chris1Wang3](https://github.com/Chris1Wang3)）
 
-AI产品，负责增长/商业化，专注把「会议里才会出现的专业质疑」封装成可复用的 Agent Skills，输出可交付的报告与决策资产。问题与建议请提 [GitHub Issues](https://github.com/Chris1Wang3/HammerRoom-Skills/issues)。
+AI产品，负责增长/商业化，专注把「会议里才会出现的专业质疑」封装成可复用的 Agent Skills，输出可交付的报告与决策资产。问题与建议请提 [GitHub Issues](https://github.com/Chris1Wang3/Idea-on-Trial/issues)。
 
 ---
 

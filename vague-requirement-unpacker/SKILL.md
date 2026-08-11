@@ -158,7 +158,7 @@ Markdown 直接按以下结构输出：
 10. 下一步 / handoff
 ```
 
-HTML 输出必须使用本技能自己的 [references/report-template-pro.html](references/report-template-pro.html)。模板视觉可以与 HammerRoom 其他技能同源，但文件必须在本技能内独立存在，避免跨技能依赖。
+HTML 输出必须使用本技能自己的 [references/report-template-pro.html](references/report-template-pro.html)。模板视觉可以与 Idea on Trial 其他技能同源，但文件必须在本技能内独立存在，避免跨技能依赖。
 
 必含：
 - 一页结论卡：这是个什么需求、现在能交付到哪一档、最大风险是什么
