@@ -18,6 +18,7 @@ OPC Board · Competitive Product Research · PM Requirement Review Simulator · 
 [![Cursor](https://img.shields.io/badge/Cursor-✓-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-✓-ec4899?style=flat-square)](https://openclaw.ai)
 [![Codex](https://img.shields.io/badge/Codex-✓-10b981?style=flat-square&logo=openai&logoColor=white)](https://openai.com/codex)
+[![SkillHub](https://img.shields.io/badge/SkillHub-6-7c3aed?style=flat-square)](https://www.skillhub.cn/dashboard)
 
 </div>
 
@@ -25,14 +26,14 @@ OPC Board · Competitive Product Research · PM Requirement Review Simulator · 
 
 ## Table of contents
 
-| # | Skill | Summary | ClawHub |
-|---|-------|---------|---------|
-| 1 | 🏛️ [**OPC Board**](#opc-board) | Five-dimension stress-test for solo business ideas | [ClawHub v1.4.2](https://clawhub.ai/Chris1Wang3/opc-board) |
-| 2 | 🔍 [**Competitive Product Research**](#competitive-product-research) | Dual-track benchmarking + strategic diagnostics | [ClawHub v1.4.7](https://clawhub.ai/Chris1Wang3/competitive-product-research) |
-| 3 | ⚔️ [**PM Requirement Review Simulator**](#pm-requirement-review-simulator) | Five-role PRD review with survival scoring | [ClawHub v1.2.8](https://clawhub.ai/Chris1Wang3/pm-requirement-review-simulator) |
-| 4 | ⚖️ [**ReviewCourt**](#reviewcourt) | Post-meeting verdict from transcript evidence + PRD cross-check | [ClawHub v1.0.1](https://clawhub.ai/chris1wang3/skills/reviewcourt) |
-| 5 | 🧩 [**Vague Requirement Unpacker**](#vague-requirement-unpacker) | Vague ask -> PM alignment pack | [ClawHub v1.0.3](https://clawhub.ai/Chris1Wang3/vague-requirement-unpacker) |
-| 6 | 📊 [**Skill Quality Scorer**](#skill-quality-scorer) | TRACE+ six-dimension deterministic scoring | [ClawHub v1.1.9](https://clawhub.ai/Chris1Wang3/skill-quality-scorer) |
+| # | Skill | Summary | Platforms |
+|---|-------|---------|-----------|
+| 1 | 🏛️ [**OPC Board**](#opc-board) | Five-dimension stress-test for solo business ideas | [ClawHub v1.4.2](https://clawhub.ai/Chris1Wang3/opc-board) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/opc-board) |
+| 2 | 🔍 [**Competitive Product Research**](#competitive-product-research) | Dual-track benchmarking + strategic diagnostics | [ClawHub v1.4.7](https://clawhub.ai/Chris1Wang3/competitive-product-research) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/competitive-product-research) |
+| 3 | ⚔️ [**PM Requirement Review Simulator**](#pm-requirement-review-simulator) | Five-role PRD review with survival scoring | [ClawHub v1.2.8](https://clawhub.ai/Chris1Wang3/pm-requirement-review-simulator) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/pm-requirement-review-simulator) |
+| 4 | ⚖️ [**ReviewCourt**](#reviewcourt) | Post-meeting verdict from transcript evidence + PRD cross-check | [ClawHub v1.0.1](https://clawhub.ai/chris1wang3/skills/reviewcourt) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/reviewcourt) |
+| 5 | 🧩 [**Vague Requirement Unpacker**](#vague-requirement-unpacker) | Vague ask -> PM alignment pack | [ClawHub v1.0.3](https://clawhub.ai/Chris1Wang3/vague-requirement-unpacker) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/vague-requirement-unpacker) |
+| 6 | 📊 [**Skill Quality Scorer**](#skill-quality-scorer) | TRACE+ six-dimension deterministic scoring | [ClawHub v1.1.9](https://clawhub.ai/Chris1Wang3/skill-quality-scorer) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/skill-quality-scorer) |
 
 ---
 
@@ -77,6 +78,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/opc-board"><img src="https://img.shields.io/badge/ClawHub-v1.4.2-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/opc-board"><img src="https://img.shields.io/badge/SkillHub-View-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
 </p>
 
 <p><strong>Friends say sounds great; AI says wonderful idea — you need someone willing to push back.</strong> OPC Board convenes 5 professional advisors (tech / growth / experience / business / risk) to stress-test solo ventures, side projects, open-source ideas, or SaaS concepts across <strong>5 dimensions and 25 sub-items</strong> with formula-based scoring, Go / Conditional Go / No Go decisions, MoSCoW scoping, Pre-Mortem risks, and an action plan.</p>
@@ -103,6 +105,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/competitive-product-research"><img src="https://img.shields.io/badge/ClawHub-v1.4.7-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/competitive-product-research"><img src="https://img.shields.io/badge/SkillHub-View-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
 </p>
 
 <p><strong>Competitive analysis should not be a feature checklist.</strong> This skill uses an original <strong>dual-track four-layer method</strong>: experience benchmarking (8 UX dimensions) and strategic diagnostics (SWOT, Porter's Five Forces, PESTLE) in parallel; a structured intake checklist aligns context first, then produces a <strong>source-traceable</strong> professional HTML report with actions, owners, complexity, and evidence IDs.</p>
@@ -129,6 +132,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/pm-requirement-review-simulator"><img src="https://img.shields.io/badge/ClawHub-v1.2.8-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/pm-requirement-review-simulator"><img src="https://img.shields.io/badge/SkillHub-View-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
 </p>
 
 <p><strong>Rehearse before the real review — cheaper than getting roasted in the meeting.</strong> Simulates engineering, ops, design, executive, and legal challenges to your PRD under one consistent review standard; deterministic scoring outputs an HTML survival report with a <strong>five-dimension radar chart</strong>, killer replies, RACI pack, meeting script, and action list.</p>
@@ -155,6 +159,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/chris1wang3/skills/reviewcourt"><img src="https://img.shields.io/badge/ClawHub-v1.0.1-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/reviewcourt"><img src="https://img.shields.io/badge/SkillHub-View-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
 <img src="https://img.shields.io/badge/Depends-tmeet_CLI-0ea5e9?style=for-the-badge" alt="tmeet" />
 </p>
 
@@ -182,6 +187,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/vague-requirement-unpacker"><img src="https://img.shields.io/badge/ClawHub-v1.0.3-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/vague-requirement-unpacker"><img src="https://img.shields.io/badge/SkillHub-View-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
 </p>
 
 <p><strong>A vague ask is not a finished PRD.</strong> This skill uses a five-layer unpacking method to turn fuzzy boss or business instructions into intent reconstruction, confirmation questions, scenario narrowing, scope skeletons, core flows/states, readiness scoring, risk flags, and stakeholder-facing response scripts.</p>
@@ -208,6 +214,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/skill-quality-scorer"><img src="https://img.shields.io/badge/ClawHub-v1.1.9-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/skill-quality-scorer"><img src="https://img.shields.io/badge/SkillHub-View-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
 </p>
 
 <p><strong>No direction on iteration, no confidence before publish — you need deterministic scoring, not model flattery.</strong> Full <strong>TRACE+ six-dimension, 30 sub-item</strong> audit for existing Agent Skills (SKILL.md): run <code>static_audit.py</code> first, then rubric evidence per sub-item, formula composite score; supports single skill, A vs B comparison, and batch scoring — outputs JSON + Markdown report.</p>
