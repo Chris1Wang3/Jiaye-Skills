@@ -78,7 +78,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/opc-board"><img src="https://img.shields.io/badge/ClawHub-v1.4.2-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
-<a href="https://www.skillhub.cn/skills/user_0de90603/opc-board"><img src="https://img.shields.io/badge/SkillHub-%E6%9F%A5%E7%9C%8B-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/opc-board"><img src="https://img.shields.io/badge/SkillHub-v1.4.2-7c3aed?style=for-the-badge" alt="SkillHub v1.4.2" /></a>
 </p>
 
 <p><strong>朋友说「不错」，AI 说 wonderful idea——你真正需要的是愿意拍砖的人。</strong> 一人董事会召集 5 位专业顾问（技术 / 增长 / 体验 / 商业 / 风险），对一人公司、副业、开源或 SaaS 想法进行<strong>五维 25 子项</strong>确定性压测，输出带公式的可行性评分、Go / Conditional Go / No Go 决策、MoSCoW 范围、Pre-Mortem 风险与行动清单。</p>
@@ -105,7 +105,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/competitive-product-research"><img src="https://img.shields.io/badge/ClawHub-v1.4.7-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
-<a href="https://www.skillhub.cn/skills/user_0de90603/competitive-product-research"><img src="https://img.shields.io/badge/SkillHub-%E6%9F%A5%E7%9C%8B-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/competitive-product-research"><img src="https://img.shields.io/badge/SkillHub-v1.4.7-7c3aed?style=for-the-badge" alt="SkillHub v1.4.7" /></a>
 </p>
 
 <p><strong>竞品分析不应是功能清单堆砌。</strong> 本技能采用原创<strong>双轨四层法</strong>：体验对标（8 大 UX 维度）与战略诊断（SWOT、波特五力、PESTLE）并行；先通过结构化信息采集清单对齐上下文，再生成<strong>证据可溯源</strong>的专业 HTML 报告，含动作建议、责任人、复杂度与证据编号。</p>
@@ -132,7 +132,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/pm-requirement-review-simulator"><img src="https://img.shields.io/badge/ClawHub-v1.2.8-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
-<a href="https://www.skillhub.cn/skills/user_0de90603/pm-requirement-review-simulator"><img src="https://img.shields.io/badge/SkillHub-%E6%9F%A5%E7%9C%8B-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/pm-requirement-review-simulator"><img src="https://img.shields.io/badge/SkillHub-v1.2.8-7c3aed?style=for-the-badge" alt="SkillHub v1.2.8" /></a>
 </p>
 
 <p><strong>评审前预演，比会上挨骂便宜。</strong> 模拟技术、运营、设计、老板、法务五方按统一标准挑战 PRD；确定性评分引擎逐子项打分，输出带<strong>五维雷达图</strong>的 HTML 存活率报告、神回复话术、RACI 协作包、会议脚本与行动清单。</p>
@@ -159,7 +159,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/chris1wang3/skills/reviewcourt"><img src="https://img.shields.io/badge/ClawHub-v1.0.1-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
-<a href="https://www.skillhub.cn/skills/user_0de90603/reviewcourt"><img src="https://img.shields.io/badge/SkillHub-%E6%9F%A5%E7%9C%8B-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/reviewcourt"><img src="https://img.shields.io/badge/SkillHub-v1.0.1-7c3aed?style=for-the-badge" alt="SkillHub v1.0.1" /></a>
 <img src="https://img.shields.io/badge/Depends-tmeet_CLI-0ea5e9?style=for-the-badge" alt="tmeet" />
 </p>
 
@@ -187,7 +187,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/vague-requirement-unpacker"><img src="https://img.shields.io/badge/ClawHub-v1.0.3-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
-<a href="https://www.skillhub.cn/skills/user_0de90603/vague-requirement-unpacker"><img src="https://img.shields.io/badge/SkillHub-%E6%9F%A5%E7%9C%8B-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/vague-requirement-unpacker"><img src="https://img.shields.io/badge/SkillHub-v1.0.3-7c3aed?style=for-the-badge" alt="SkillHub v1.0.3" /></a>
 </p>
 
 <p><strong>模糊方向，不等于可以直接开写 PRD。</strong> 模糊需求接招器用原创<strong>五层接招法</strong>，把老板/业务的模糊指令拆成意图还原、确认问题、场景收敛、边界骨架、流程状态、接招就绪度和风险红旗，输出能回话、能开会对齐、能继续开写的 PM 行动包。</p>
@@ -214,7 +214,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 <p>
 <a href="https://clawhub.ai/Chris1Wang3/skill-quality-scorer"><img src="https://img.shields.io/badge/ClawHub-v1.1.9-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
-<a href="https://www.skillhub.cn/skills/user_0de90603/skill-quality-scorer"><img src="https://img.shields.io/badge/SkillHub-%E6%9F%A5%E7%9C%8B-7c3aed?style=for-the-badge" alt="SkillHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/skill-quality-scorer"><img src="https://img.shields.io/badge/SkillHub-v1.1.9-7c3aed?style=for-the-badge" alt="SkillHub v1.1.9" /></a>
 </p>
 
 <p><strong>迭代没方向、发布前没底——你需要的是确定性评分，不是模型随口夸。</strong> 对现有 Agent Skill（SKILL.md）做 <strong>TRACE+ 六维 30 子项</strong>全维审计：先跑 <code>static_audit.py</code> 静态脚本，再按 rubric 逐项 evidence，公式算综合分；支持单技能、A vs B 对比、批量评分，输出 JSON + Markdown 报告。</p>
