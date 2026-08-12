@@ -50,6 +50,19 @@ openclaw skills install vague-requirement-unpacker
 openclaw skills install skill-quality-scorer
 ```
 
+### SkillHub
+
+先按 [SkillHub 安装说明](https://skillhub.cn/install/skillhub.md) 安装 CLI；随后将技能安装到你当前 Agent 的 skills 目录（例如 Codex 的 `~/.codex/skills/`）。
+
+```bash
+skillhub install opc-board --dir <skills 目录>
+skillhub install competitive-product-research --dir <skills 目录>
+skillhub install pm-requirement-review-simulator --dir <skills 目录>
+skillhub install reviewcourt --dir <skills 目录>
+skillhub install vague-requirement-unpacker --dir <skills 目录>
+skillhub install skill-quality-scorer --dir <skills 目录>
+```
+
 ### Cursor / Claude Code / Codex
 
 将本仓库克隆到本地，在 Agent 设置中将各技能目录（含 `SKILL.md`）加入技能路径，或复制子目录到项目的 `.cursor/skills` / 用户技能目录。
