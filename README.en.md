@@ -28,12 +28,12 @@ OPC Board · Competitive Product Research · PM Requirement Review Simulator · 
 
 | # | Skill | Summary | Platforms |
 |---|-------|---------|-----------|
-| 1 | 🏛️ [**OPC Board**](#opc-board) | Five-dimension stress-test for solo business ideas | [ClawHub v1.4.2](https://clawhub.ai/Chris1Wang3/opc-board) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/opc-board) |
-| 2 | 🔍 [**Competitive Product Research**](#competitive-product-research) | Dual-track benchmarking + strategic diagnostics | [ClawHub v1.4.7](https://clawhub.ai/Chris1Wang3/competitive-product-research) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/competitive-product-research) |
-| 3 | ⚔️ [**PM Requirement Review Simulator**](#pm-requirement-review-simulator) | Five-role PRD review with survival scoring | [ClawHub v1.2.8](https://clawhub.ai/Chris1Wang3/pm-requirement-review-simulator) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/pm-requirement-review-simulator) |
-| 4 | ⚖️ [**ReviewCourt**](#reviewcourt) | Post-meeting verdict from transcript evidence + PRD cross-check | [ClawHub v1.0.1](https://clawhub.ai/chris1wang3/skills/reviewcourt) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/reviewcourt) |
-| 5 | 🧩 [**Vague Requirement Unpacker**](#vague-requirement-unpacker) | Vague ask -> PM alignment pack | [ClawHub v1.0.3](https://clawhub.ai/Chris1Wang3/vague-requirement-unpacker) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/vague-requirement-unpacker) |
-| 6 | 📊 [**Skill Quality Scorer**](#skill-quality-scorer) | TRACE+ six-dimension deterministic scoring | [ClawHub v1.1.9](https://clawhub.ai/Chris1Wang3/skill-quality-scorer) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/skill-quality-scorer) |
+| 1 | 🏛️ [**OPC Board**](#opc-board) | Five-dimension stress-test for solo business ideas | [ClawHub](https://clawhub.ai/Chris1Wang3/opc-board) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/opc-board) |
+| 2 | 🔍 [**Competitive Product Research**](#competitive-product-research) | Dual-track benchmarking + strategic diagnostics | [ClawHub](https://clawhub.ai/Chris1Wang3/competitive-product-research) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/competitive-product-research) |
+| 3 | ⚔️ [**PM Requirement Review Simulator**](#pm-requirement-review-simulator) | Five-role PRD review with survival scoring | [ClawHub](https://clawhub.ai/Chris1Wang3/pm-requirement-review-simulator) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/pm-requirement-review-simulator) |
+| 4 | ⚖️ [**ReviewCourt**](#reviewcourt) | Post-meeting verdict from transcript evidence + PRD cross-check | [ClawHub](https://clawhub.ai/chris1wang3/skills/reviewcourt) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/reviewcourt) |
+| 5 | 🧩 [**Vague Requirement Unpacker**](#vague-requirement-unpacker) | Vague ask -> PM alignment pack | [ClawHub](https://clawhub.ai/Chris1Wang3/vague-requirement-unpacker) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/vague-requirement-unpacker) |
+| 6 | 📊 [**Skill Quality Scorer**](#skill-quality-scorer) | TRACE+ six-dimension deterministic scoring | [ClawHub](https://clawhub.ai/Chris1Wang3/skill-quality-scorer) · [SkillHub](https://www.skillhub.cn/skills/user_0de90603/skill-quality-scorer) |
 
 ---
 
