@@ -50,10 +50,6 @@ openclaw skills install vague-requirement-unpacker
 openclaw skills install skill-quality-scorer
 ```
 
-或从 [ClawHub · Chris1Wang3](https://clawhub.ai/Chris1Wang3) 安装对应技能包。
-
-**需求评审庭（ReviewCourt）** 也可通过 [ClawHub](https://clawhub.ai/chris1wang3/skills/reviewcourt) 安装：`openclaw skills install @chris1wang3/reviewcourt`。运行依赖腾讯会议官方 CLI [`@tencentcloud/tmeet`](https://www.npmjs.com/package/@tencentcloud/tmeet)（全局安装，勿装进本仓库目录）。
-
 ### Cursor / Claude Code / Codex
 
 将本仓库克隆到本地，在 Agent 设置中将各技能目录（含 `SKILL.md`）加入技能路径，或复制子目录到项目的 `.cursor/skills` / 用户技能目录。
@@ -264,7 +260,7 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 
 **Chris Wang**（[@Chris1Wang3](https://github.com/Chris1Wang3)）
 
-AI产品，负责增长/商业化，专注把「会议里才会出现的专业质疑」封装成可复用的 Agent Skills，输出可交付的报告与决策资产。问题与建议请提 [GitHub Issues](https://github.com/Chris1Wang3/Idea-on-Trial/issues)。
+增长 / 商业化 AI 产品，专注把产品经理在想法验证、需求拆解、竞品研究、评审压测、会后裁决和 Skill 质量审计中的刚需工作，封装成可复用的 Agent Skills，输出可交付的报告、行动方案与决策资产。问题与建议请提 [GitHub Issues](https://github.com/Chris1Wang3/Idea-on-Trial/issues)。
 
 ---
 

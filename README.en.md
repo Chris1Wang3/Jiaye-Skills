@@ -50,10 +50,6 @@ openclaw skills install vague-requirement-unpacker
 openclaw skills install skill-quality-scorer
 ```
 
-Or install from [ClawHub · Chris1Wang3](https://clawhub.ai/Chris1Wang3).
-
-**ReviewCourt** is also available on [ClawHub](https://clawhub.ai/chris1wang3/skills/reviewcourt): `openclaw skills install @chris1wang3/reviewcourt`. Runtime depends on the official Tencent Meeting CLI [`@tencentcloud/tmeet`](https://www.npmjs.com/package/@tencentcloud/tmeet) (install globally; do not install into this repository).
-
 ### Cursor / Claude Code / Codex
 
 Clone this repo and add each skill directory (with its `SKILL.md`) to your agent skill path, or copy subdirectories into your project `.cursor/skills` / user skills folder.
@@ -264,7 +260,7 @@ You can also say "run with an example" for any skill — the agent will construc
 
 **Chris Wang** ([@Chris1Wang3](https://github.com/Chris1Wang3))
 
-AI product lead for growth and monetization, focused on packaging the kind of professional pushback you only get in meetings into reusable Agent Skills — delivering reports and decision assets you can actually use. Feedback welcome via [GitHub Issues](https://github.com/Chris1Wang3/Idea-on-Trial/issues).
+Growth and monetization AI product manager, focused on turning essential PM work—idea validation, requirement framing, competitive research, review stress-testing, post-meeting verdicts, and Skill quality audits—into reusable Agent Skills that deliver actionable reports, plans, and decision assets. Feedback welcome via [GitHub Issues](https://github.com/Chris1Wang3/Idea-on-Trial/issues).
 
 ---
 
