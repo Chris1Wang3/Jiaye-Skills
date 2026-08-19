@@ -113,8 +113,8 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 <h3>🔍 Competitive Product Research</h3>
 
 <p>
-<a href="https://clawhub.ai/Chris1Wang3/competitive-product-research"><img src="https://img.shields.io/badge/ClawHub-v1.4.7-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
-<a href="https://www.skillhub.cn/skills/user_0de90603/competitive-product-research"><img src="https://img.shields.io/badge/SkillHub-v1.4.7-7c3aed?style=for-the-badge" alt="SkillHub v1.4.7" /></a>
+<a href="https://clawhub.ai/Chris1Wang3/competitive-product-research"><img src="https://img.shields.io/badge/ClawHub-v1.4.8-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/competitive-product-research"><img src="https://img.shields.io/badge/SkillHub-v1.4.8-7c3aed?style=for-the-badge" alt="SkillHub v1.4.8" /></a>
 </p>
 
 <p><strong>Competitive analysis should not be a feature checklist.</strong> This skill uses an original <strong>dual-track four-layer method</strong>: experience benchmarking (8 UX dimensions) and strategic diagnostics (SWOT, Porter's Five Forces, PESTLE) in parallel; a structured intake checklist aligns context first, then produces a <strong>source-traceable</strong> professional HTML report with actions, owners, complexity, and evidence IDs.</p>

@@ -113,8 +113,8 @@ git clone https://github.com/Chris1Wang3/Idea-on-Trial.git
 <h3>🔍 竞品调研 · Competitive Product Research</h3>
 
 <p>
-<a href="https://clawhub.ai/Chris1Wang3/competitive-product-research"><img src="https://img.shields.io/badge/ClawHub-v1.4.7-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
-<a href="https://www.skillhub.cn/skills/user_0de90603/competitive-product-research"><img src="https://img.shields.io/badge/SkillHub-v1.4.7-7c3aed?style=for-the-badge" alt="SkillHub v1.4.7" /></a>
+<a href="https://clawhub.ai/Chris1Wang3/competitive-product-research"><img src="https://img.shields.io/badge/ClawHub-v1.4.8-ff69b4?style=for-the-badge" alt="ClawHub" /></a>
+<a href="https://www.skillhub.cn/skills/user_0de90603/competitive-product-research"><img src="https://img.shields.io/badge/SkillHub-v1.4.8-7c3aed?style=for-the-badge" alt="SkillHub v1.4.8" /></a>
 </p>
 
 <p><strong>竞品分析不应是功能清单堆砌。</strong> 本技能采用原创<strong>双轨四层法</strong>：体验对标（8 大 UX 维度）与战略诊断（SWOT、波特五力、PESTLE）并行；先通过结构化信息采集清单对齐上下文，再生成<strong>证据可溯源</strong>的专业 HTML 报告，含动作建议、责任人、复杂度与证据编号。</p>
